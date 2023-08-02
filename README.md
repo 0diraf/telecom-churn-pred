@@ -1,7 +1,6 @@
-# Telecom Company Customer Churn Prediction Model
 <img align='right' src="https://github.com/0diraf/telecom-churn-pred/assets/139581253/acde89af-d467-4708-899e-cd836ee2a2ca" alt="Image" width="400" height="600">
 
-# 📞Telecom Company Customer Churn Prediction
+# 📞Telecom Company Customer Churn Prediction Model
 
 In this project, I wanted to work with customer attrition data in the telecom industry. However, gaining access to such a dataset on real-world customer churn can be a very difficult task. Because of challenges like data privacy concerns, proprietary restrictions, and ethical considerations, companies often guard their customer data with utmost security, making access to genuine and extensive datasets a rarity.
 
